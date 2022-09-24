@@ -33,5 +33,6 @@ public class MultiDimensionalArray {
         for (int[] row : arr) {
             System.out.println(Arrays.toString(row));
         }
+
     }
 }
